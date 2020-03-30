@@ -1,0 +1,23 @@
+<?xml version ="1.0" encoding= "UTF-8"?>
+
+<MojiPodaci>
+    <PunoIme>
+        <Ime>Stefan</Ime>
+        <Prezime>Pešić</Prezime>   
+    </PunoIme>
+
+    <DatumRodjenja>
+        <Dan>22</Dan>
+        <Mesec>April</Mesec>
+        <Godina>1998</Godina>
+    </DatumRodjenja>
+
+    <Adresa>
+        <Ulica>Banatska</Ulica>
+        <Naselje>Starčevo</Naselje>
+        <Grad>Pančevo</Grad>
+        <Drzava>Srbija</Drzava>
+        <Ptt>26232</Ptt>   
+    </Adresa>
+
+</MojiPodaci>
