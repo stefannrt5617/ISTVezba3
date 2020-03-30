@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE fakultet SYSTEM "fakultet.dtd">
+      <fakultet>
+        <student status="studira" indeks="NRT-56/17">
+          <osoba>
+            <ime>Stefan</ime>
+            <prezime>Pešić</prezime>
+            <mestoRodjenja>Pančevo</mestoRodjenja>
+            <datumRodjenja>22-04-1998</datumRodjenja>
+          </osoba>
+          <upisi>
+            <semestar broj="1" godina="2017" vrsta="saf">
+            </semestar>
+
+            <semestar broj="3" godina="2018" vrsta="budzet">
+            </semestar>
+
+             <semestar broj="5" godina="2019" vrsta="budzet">
+            </semestar>
+          </upisi>
+        </student>
+      </fakultet>
