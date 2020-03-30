@@ -1,0 +1,20 @@
+<?xml version ="1.0" encoding= "UTF-8"?>
+
+<mail:Inbox xmlns:mail="http://viser.edu.rs/mail">
+    <mail:Poruka>
+        <mail:Posiljalac>
+            <mail:Ime>Stefan Pešić</mail:Ime>
+            <mail:Adresa>fansteblea91@hotmail.com</mail:Adresa>
+        </mail:Posiljalac>
+
+        <mail:Primalac>
+            <mail:Ime>Dejan Vasiljević</mail:Ime>
+            <mail:Adresa>dvasiljevic1998@gmail.com</mail:Adresa>
+        </mail:Primalac>
+
+        <mail:CC>radanovn98@gmail.com</mail:CC>
+        <mail:BCC>novica93@hotmail.com</mail:BCC>
+        <mail:tekst>Pozdrav!!!</mail:tekst>
+    </mail:Poruka>
+
+</mail:Inbox>
