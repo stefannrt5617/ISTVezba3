@@ -1,0 +1,46 @@
+<?xml version ="1.0" encoding= "UTF-8"?>
+
+<AutoOglas>
+    <Automobil>
+      <Proizvodjac>Alfa Romeo</Proizvodjac>  
+      
+      <Model tip="Hečbek">Mito</Model>
+      
+      <Godiste>2009</Godiste>
+      
+      <Farba tip="Metalic">Crna</Farba>
+      <Zapremina jedinica="ccm">1398</Zapremina>
+      
+      <Transmisija tip="Manuelni">6</Transmisija>
+
+      <Gorivo tng="ne">Benzin</Gorivo>
+
+      <Cena valuta="EUR">4999</Cena>
+
+      <Kontakt>063-345-56-67</Kontakt>
+
+    </Automobil>   
+
+
+     <Automobil>
+      <Proizvodjac>Mazda</Proizvodjac>  
+      
+      <Model tip="Karavan">6</Model>
+      
+      <Godiste>2004</Godiste>
+      
+      <Farba tip="Metalic">Siva</Farba>
+      
+      <Zapremina jedinica="ccm">1998</Zapremina>
+      
+      <Transmisija tip="Manuelni">5</Transmisija>
+
+      <Gorivo tng="ne">Dizel</Gorivo>
+
+      <Cena valuta="EUR">2550</Cena>
+
+      <Kontakt>063-445-87-12</Kontakt>
+
+    </Automobil>   
+
+</AutoOglas>
