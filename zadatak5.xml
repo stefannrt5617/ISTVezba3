@@ -1,0 +1,26 @@
+<?xml version ="1.0" encoding= "UTF-8"?>
+<!DOCTYPE NEWSPAPER SYSTEM "zadatak5.dtd">
+
+<NEWSPAPER>
+    <ARTICLE AUTHOR="Stefan">
+        <HEADLINE>Lorem, ipsum.</HEADLINE>
+        <BYLINE>By: Lorem, ipsum.</BYLINE>
+        <LEAD>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, recusandae!</LEAD>
+        <BODY>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, asperiores eius. Alias magnam aperiam a atque ratione? Fugiat, totam assumenda.
+        </BODY>
+        <NOTES>Lorem ipsum, dolor sit amet consectetur adipisicing.</NOTES>
+    </ARTICLE>
+
+    <ARTICLE AUTHOR="Milan">
+        <HEADLINE>Lorem, ipsum.</HEADLINE>
+        <BYLINE>By: Lorem, ipsum.</BYLINE>
+        <LEAD>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates, recusandae!</LEAD>
+        <BODY>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, asperiores eius. Alias magnam aperiam a atque ratione? Fugiat, totam assumenda.
+        </BODY>
+        <NOTES>Lorem ipsum, dolor sit amet consectetur adipisicing.</NOTES>
+    </ARTICLE>
+
+    &NEWSPAPAER;, &PUBLISHER;, &COPYRIGHT;
+</NEWSPAPER>
